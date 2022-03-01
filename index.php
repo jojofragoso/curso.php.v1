@@ -1,4 +1,4 @@
-<?php echo "testando"; 
-echo "51 e pinga"; 
+<ul>
+    <li> <a href="conceitosDeVariaveis.php"> Aula 01 </a> </li>
 
-?>
+</ul>
