@@ -1,1 +1,4 @@
-<?php echo "testando"; ?>
+<?php echo "testando"; 
+echo "51 e pinga"; 
+
+?>
