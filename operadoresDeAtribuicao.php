@@ -1,7 +1,6 @@
 <?php
 
-;echo  "www.operadoresAritimericos.com.br<br/><br/>"; 
-
+echo  "www.operadoresAritimericos.com.br<br/><br/>"; 
 $a = 16;
 $b = 3;
 
