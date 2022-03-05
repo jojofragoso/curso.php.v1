@@ -4,5 +4,6 @@
     <li> <a href="operadoresDeAtribuicao.php"> Aula 03 </a> </li>
     <li> <a href="operadoresDeAtribuicao.php"> Aula 04 </a> </li>
     <li> <a href="operadoresDeIncremento.php"> Aula 05 </a> </li>
+    <li> <a href="conhecendoFormularios.php"> Aula 06 </a> </li>
 
 </ul>
