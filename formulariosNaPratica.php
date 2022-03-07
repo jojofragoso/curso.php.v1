@@ -27,9 +27,34 @@
 </p>
 
 <p>digite seu comentario no espaço abaixo : 
+
 <textarea name= "comentarios" rows = "6" cols= "42"></textarea><br>
 </p>
 
+<p>deixe seus dados para contato<br>
+nome<input type="text" size = "35" maxlength="200" name = "name"><br/>
+</p>
+
+<p>deixe seus dados para contato<br>
+fone<input type="text" size = "35" maxlength="200" name = "name"><br/>
+</p>
+
+<p>deixe seus dados para contato<br>
+gmail<input type="text" size = "35" maxlength="200" name = "name"><br/>
+</p>
+
+<p>deixe seus dados para contato<br>
+senha<input type="password" size = "35" maxlength="200" name = "name"><br/>
+</p>
+
+
+<p><input type="checkbox" name = "noticias" value = "not">desejo receber noticias das novidades do sit <br/>
+</p>
+
+<p>
+<input type="submit"value="enviar dados">
+<input type="submit"value="limpar formularios">
+</p>
 
 </form>
 
