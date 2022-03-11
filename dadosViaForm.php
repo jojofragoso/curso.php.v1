@@ -7,6 +7,8 @@
 
 <body>
 
+<form action="estruturaDeRepetiçao.php" method="POST">
+
 <form action="op_Soma.php" method="POST">
 
 <p>deixe seus dados para contato<br>

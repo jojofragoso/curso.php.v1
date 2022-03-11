@@ -9,5 +9,6 @@
     <li> <a href="formulariosNaPratica.php"> Aula 08 </a> </li>
     <li> <a href="dadosViaForm.php"> Aula 09 </a> </li>
     <li> <a href="op_Soma.php"> Aula 10 </a> </li>
-    <li> <a href="estruturaDeComandos.php"> Aula 10 </a> </li>
+    <li> <a href="estruturaDeComandos.php"> Aula 11 </a> </li>
+    <li> <a href="estruturaDeRepetiçao.php"> Aula 12 </a> </li>
 </ul>
