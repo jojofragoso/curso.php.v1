@@ -11,4 +11,9 @@
     <li> <a href="op_Soma.php"> Aula 10 </a> </li>
     <li> <a href="estruturaDeComandos.php"> Aula 11 </a> </li>
     <li> <a href="estruturaDeRepetiçao.php"> Aula 12 </a> </li>
+    <li> <a href="estruturaDeFunçao.php"> Aula 13</a> </li>
+    <li> <a href="formularioTest.php"> Aula 13</a> </li>
+    <li> <a href="funçoes.php"> Aula 13</a> </li>
+
+
 </ul>
