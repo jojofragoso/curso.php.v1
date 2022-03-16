@@ -14,6 +14,6 @@
     <li> <a href="estruturaDeFunçao.php"> Aula 13</a> </li>
     <li> <a href="formularioTest.php"> Aula 13</a> </li>
     <li> <a href="funçoes.php"> Aula 13</a> </li>
-    <li> <a href="salarioDeUmFuncionario.php"> Aula 14</a> </li>
-
+    <li> <a href="salarioDeUmFuncionario.php"> Aula 14</a> </li> 
+    <li> <a href="diasDeVida.php"> Aula 15</a> </li> 
 </ul>
