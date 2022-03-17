@@ -6,7 +6,7 @@
 
 <body>pagina.google</body>
 
-<form action="estruturaDeFunçao.php" method="POST">
+<form action=".php" method="POST">
 
     <p>
     <b>
