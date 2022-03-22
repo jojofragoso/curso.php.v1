@@ -6,15 +6,14 @@
 
 <body>pagina.google</body>
 
-<form action=".php" method="POST">
+<form action=.php" method="POST">
 
-    <p>
-    <b>
+    
+    
 
 
-valor de a:<input type ="txt"  name="txt_a" size ="30"> </br>
-valor de b:<input type ="txt"  name="txt_b" size ="30"> </br>
-valor de c:<input type ="txt"  name="txt_c" size ="30"> </br>
+valor1:<input type ="txt"  name="txt_valor1" size ="30"> </br>
+valo2:<input type ="txt"  name="txt_valor2" size ="30"> </br>
 
 <input type="submit" value = "enviar" name="btn_Enviar">
 

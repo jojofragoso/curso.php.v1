@@ -16,5 +16,10 @@
     <li> <a href="funçoes.php"> Aula 13</a> </li>
     <li> <a href="salarioDeUmFuncionario.php"> Aula 14</a> </li> 
     <li> <a href="diasDeVida.php"> Aula 15</a> </li> 
-    <li> <a href="depedente.php"> Aula 16</a> </li> 
+    <li> <a href="aulaEep.html"> aulaEep</a> </li> 
+    <li> <a href="maiorValor.php"> Aula 16</a> </li>
+    <li> <a href="mediaAluno.php"> Aula 17</a> </li>
+    
+
+
 </ul>
