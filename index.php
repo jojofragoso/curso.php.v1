@@ -19,7 +19,8 @@
     <li> <a href="aulaEep.html"> aulaEep</a> </li> 
     <li> <a href="maiorValor.php"> Aula 16</a> </li>
     <li> <a href="mediaAluno.php"> Aula 17</a> </li>
-    
-
-
+    <li> <a href="trianguloLados.php"> Aula 18</a> </li>
+    <li> <a href="salarioDeFuncionario2.php"> Aula 19</a> </li>
+    <li> <a href="multiplosDe100.php"> Aula 20</a> </li>
+    <li> <a href="numeroPrimo.php"> Aula 21</a> </li>
 </ul>
