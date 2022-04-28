@@ -23,4 +23,9 @@
     <li> <a href="salarioDeFuncionario2.php"> Aula 19</a> </li>
     <li> <a href="multiplosDe100.php"> Aula 20</a> </li>
     <li> <a href="numeroPrimo.php"> Aula 21</a> </li>
+    <li> <a href="fibonaci.php"> Aula 22</a> </li>
+    <li> <a href="valorTerreno.php"> Aula 23</a> </li>
+    <li> <a href="sorteioNumero.php"> Aula 24</a> </li>
+    <li> <a href="mediaNota.php"> Aula 25</a> </li>
+
 </ul>
